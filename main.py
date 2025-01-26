@@ -7,7 +7,7 @@ from utils import clean_text
 
 
 def create_streamlit_app(llm, portfolio, clean_text):
-    st.title("Cold Mail Generator")
+    st.title("LLM-StreamEmail: AI-Powered Cold Email Generator with Job Scraping, Portfolio Integration, Vector-Based Personalization, and Streamlit Interface")
     url_input = st.text_input("Enter a URL:", value="https://www.smartsoftware.com.bd/jobs-news")
     submit_button = st.button("Submit")
 

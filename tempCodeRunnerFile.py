@@ -1,1 +1,1 @@
-app/resource/
+streamlit run "d:\A UDEMY\__Project__\App\main.py"
