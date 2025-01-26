@@ -1,4 +1,4 @@
-**LLM-StreamEmail: AI-Powered Cold Email Generator with Job Scraping, Portfolio Integration, Vector-Based Personalization, and Streamlit Interface**
+# LLM-StreamEmail: AI-Powered Cold Email Generator with Job Scraping, Portfolio Integration, Vector-Based Personalization, and Streamlit Interface
 
 ### Project Description:  
 LLM-StreamEmail is an advanced tool designed to generate personalized cold emails for job applications by leveraging the latest in AI technologies. The system utilizes **Large Language Models (LLM)** and **Streamlit** to offer an intuitive interface, while also integrating **job scraping** and **portfolio personalization** to create tailored, compelling emails for job seekers. The tool not only extracts job listings from career pages but also links relevant portfolio items based on specific job requirements, providing a seamless and personalized application experience.
